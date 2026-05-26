@@ -1,4 +1,4 @@
-# Hey there! I'm Aarav Goyal 👋
+# Hey there! I'm Aarav Goyal
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=4A7FDB&center=true&vCenter=true&width=450&lines=Software+Engineer;AI+%26+ML+Enthusiast;macOS+Developer" alt="Typing SVG" />
@@ -6,17 +6,17 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I am a passionate software engineer, AI/ML enthusiast, and native macOS developer. I love building highly polished, aesthetically premium, and deeply functional applications that solve real-world problems. Whether it's crafting beautiful native interfaces with Swift or training custom neural networks, I enjoy pushing the boundaries of what technology can do.
 
-* 💻 **Developer** of **[Prism](https://prism-app.tech)** — the ultimate native macOS AI companion built in SwiftUI with Tahoe-inspired "Liquid Glass" styling and advanced browser automation.
-* 🤖 **Creator** of **[Sentinel](https://sentinel-discordbot.onrender.com)** — a highly advanced AI-powered Discord assistant leveraging Google's Gemini AI.
-* 🎓 **Competitive Programmer** — practicing for **USACO** and solving complex algorithmic challenges.
+* **Developer** of **[Prism](https://prism-app.tech)** — the ultimate native macOS AI companion built in SwiftUI with Tahoe-inspired "Liquid Glass" styling and advanced browser automation.
+* **Creator** of **[Sentinel](https://sentinel-discordbot.onrender.com)** — a highly advanced AI-powered Discord assistant leveraging Google's Gemini AI.
+* **Competitive Programmer** — practicing for **USACO** and solving complex algorithmic challenges.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -41,9 +41,9 @@ I am a passionate software engineer, AI/ML enthusiast, and native macOS develope
 
 ---
 
-### ✨ Featured Projects
+### Featured Projects
 
-#### 🌈 [Prism](https://github.com/gl-aarav/Prism) — Ultimate Native AI Companion for macOS
+#### [Prism](https://github.com/gl-aarav/Prism) — Ultimate Native AI Companion for macOS
 > **Website:** [prism-app.tech](https://prism-app.tech) | **Releases:** [Prism-Releases](https://github.com/gl-aarav/Prism-Releases)
 
 A powerful, native macOS application designed with a beautiful **Liquid Glass** and macOS Tahoe aesthetic. 
@@ -52,7 +52,7 @@ A powerful, native macOS application designed with a beautiful **Liquid Glass** 
 *   **System-Wide Writing:** Refinement bar and IntelliBar powered by macOS Accessibility APIs.
 *   **Built-in Tools:** Interactive Model Comparison, Flash Cards with spaced repetition (SM-2), Quiz Me Mode, and a full-featured MCP registry.
 
-#### 🤖 [Sentinel AI Bot](https://github.com/gl-aarav/GeminiDiscordBot) — Advanced Discord Assistant
+#### [Sentinel AI Bot](https://github.com/gl-aarav/GeminiDiscordBot) — Advanced Discord Assistant
 > **Website:** [sentinel-discordbot.onrender.com](https://sentinel-discordbot.onrender.com)
 
 A feature-rich Discord bot designed to keep servers safe, automated, and engaging.
@@ -62,7 +62,7 @@ A feature-rich Discord bot designed to keep servers safe, automated, and engagin
 
 ---
 
-### 📈 Commit History
+### Commit History
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gl-aarav&bg_color=00000000&color=5a6d7d&line=4A7FDB&point=4A7FDB&area=true&hide_border=true" alt="Aarav's Commit History" />
@@ -70,7 +70,7 @@ A feature-rich Discord bot designed to keep servers safe, automated, and engagin
 
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 *   **Email:** [gl.aarav@gmail.com](mailto:gl.aarav@gmail.com)
 *   **Website:** [prism-app.tech](https://prism-app.tech)
 *   **Discord:** [Prism Discord Server](https://discord.gg/GcSGcYZfqc)
