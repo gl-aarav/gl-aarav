@@ -65,9 +65,10 @@ A feature-rich Discord bot designed to keep servers safe, automated, and engagin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gl-aarav&show_icons=true&theme=transparent&hide_border=true&title_color=4A7FDB&icon_color=4A7FDB&text_color=5a6d7d" alt="Aarav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gl-aarav&layout=compact&theme=transparent&hide_border=true&title_color=4A7FDB&icon_color=4A7FDB&text_color=5a6d7d&langs_count=6" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gl-aarav&show_icons=true&theme=transparent&hide_border=true&title_color=4A7FDB&icon_color=4A7FDB&text_color=5a6d7d" alt="Aarav's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gl-aarav&layout=compact&theme=transparent&hide_border=true&title_color=4A7FDB&icon_color=4A7FDB&text_color=5a6d7d&langs_count=6" alt="Top Languages" />
 </p>
+
 
 ---
 
