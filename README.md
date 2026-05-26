@@ -11,7 +11,6 @@
 I am a passionate software engineer, AI/ML enthusiast, and native macOS developer. I love building highly polished, aesthetically premium, and deeply functional applications that solve real-world problems. Whether it's crafting beautiful native interfaces with Swift or training custom neural networks, I enjoy pushing the boundaries of what technology can do.
 
 * **Developer** of **[Prism](https://prism-app.tech)** — the ultimate native macOS AI companion built in SwiftUI with Tahoe-inspired "Liquid Glass" styling and advanced browser automation.
-* **Creator** of **[Sentinel](https://sentinel-discordbot.onrender.com)** — a highly advanced AI-powered Discord assistant leveraging Google's Gemini AI.
 * **Competitive Programmer** — practicing for **USACO** and solving complex algorithmic challenges.
 
 ---
@@ -51,14 +50,6 @@ A powerful, native macOS application designed with a beautiful **Liquid Glass** 
 *   **Browser Agent:** Integrates an embedded Node.js server running Playwright/Puppeteer for agentic browser automation.
 *   **System-Wide Writing:** Refinement bar and IntelliBar powered by macOS Accessibility APIs.
 *   **Built-in Tools:** Interactive Model Comparison, Flash Cards with spaced repetition (SM-2), Quiz Me Mode, and a full-featured MCP registry.
-
-#### [Sentinel AI Bot](https://github.com/gl-aarav/GeminiDiscordBot) — Advanced Discord Assistant
-> **Website:** [sentinel-discordbot.onrender.com](https://sentinel-discordbot.onrender.com)
-
-A feature-rich Discord bot designed to keep servers safe, automated, and engaging.
-*   **AI Auto-Responder:** Automatically responds to new forum posts with highly relevant, Gemini-generated answers.
-*   **Moderation Suite:** Complete administration tools including kicking, banning, warning, slowmode, and auto-verifications.
-*   **Engagement Tools:** AI chats with contextual memory, summaries of recent messages, polls, and interactive utility commands.
 
 ---
 
