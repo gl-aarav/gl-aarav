@@ -67,6 +67,7 @@ A feature-rich Discord bot designed to keep servers safe, automated, and engagin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gl-aarav&bg_color=00000000&color=5a6d7d&line=4A7FDB&point=4A7FDB&area=true&hide_border=true" alt="Aarav's Commit History" />
 </p>
+
 ---
 
 ### 📬 Get in Touch
@@ -75,4 +76,6 @@ A feature-rich Discord bot designed to keep servers safe, automated, and engagin
 *   **Discord:** [Prism Discord Server](https://discord.gg/GcSGcYZfqc)
 
 ---
+
 <p align="center">Made with ❤️ by Aarav Goyal</p>
+
