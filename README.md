@@ -56,7 +56,7 @@ A powerful, native macOS application designed with a beautiful **Liquid Glass** 
 ### Commit History
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gl-aarav&bg_color=00000000&color=5a6d7d&line=4A7FDB&point=4A7FDB&area=true&hide_border=true" alt="Aarav's Commit History" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=gl-aarav&bg_color=00000000&color=5a6d7d&line=4A7FDB&point=4A7FDB&area=true&hide_border=true" alt="Aarav's Commit History" />
 </p>
 
 ---
