@@ -42,7 +42,7 @@ I am a passionate software engineer, AI/ML enthusiast, and native macOS develope
 
 ### Featured Projects
 
-#### [Prism](https://github.com/gl-aarav/Prism) — Ultimate Native AI Companion for macOS
+#### [Prism](https://github.com/gl-aarav/Prism-Releases) — Ultimate Native AI Companion for macOS
 > **Website:** [prism-app.tech](https://prism-app.tech) | **Releases:** [Prism-Releases](https://github.com/gl-aarav/Prism-Releases)
 
 A powerful, native macOS application designed with a beautiful **Liquid Glass** and macOS Tahoe aesthetic. 
